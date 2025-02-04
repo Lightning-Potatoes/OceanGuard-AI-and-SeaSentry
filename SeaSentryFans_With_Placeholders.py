@@ -1,5 +1,6 @@
 
-# Online IDE - Code Editor, Compiler, Interpreteimport RPi.GPIO as GPIO
+# Online IDE - Code Editor, Compiler, Interprete
+import RPi.GPIO as GPIO
 import time
 
 # Define GPIO pins (Replace these with actual GPIO numbers)
